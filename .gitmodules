@@ -4,3 +4,6 @@
 [submodule "nuttx"]
 	path = nuttx
 	url = git@github.com:chenzepei517/nuttx.git
+[submodule "packages_demos"]
+	path = packages_demos
+	url = git@github.com:chenzepei517/packages_demos.git
